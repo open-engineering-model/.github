@@ -1,6 +1,8 @@
-Open Engineering Model
+# Open Engineering Model
 
 The implementation of Open Engineering Models.
+
+![Open Engineering Model hero-banner.png](../assets/hero-banner.png)
 
 Open Engineering Model turns model definitions into reusable, composable 3D engineering models for the Open Engineering ecosystem.
 
